@@ -93,12 +93,18 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="Images\adoption-hearts.png" />
     <Content Include="Images\bogo-whd-treats-featured-coupon-092621.png" />
     <Content Include="Images\hp-shop-your-way-cp.png" />
     <Content Include="Images\hp-shop-your-way-rd.png" />
     <Content Include="Images\hp-shop-your-way-same-day.png" />
+    <Content Include="Images\Icon_DogTraining_Ribbon.png" />
+    <Content Include="Images\Icon_Grooming_Scissors.png" />
+    <Content Include="Images\Icon_Vet_Stethoscope.png" />
     <Content Include="Images\Petco-Coupon-Jan2020.png" />
     <Content Include="Images\price-match-030320-bnr-topnav-530w-400h-d.jpg" />
+    <Content Include="Images\services-home.png" />
+    <Content Include="Images\services-selfwash.png" />
     <Content Include="PersonalAccount.aspx" />
     <Content Include="Services.aspx" />
     <Content Include="Web.config" />
