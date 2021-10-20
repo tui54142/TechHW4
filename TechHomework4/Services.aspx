@@ -10,9 +10,9 @@
             padding-left: 25px;
         }
     </style>
-    <h3>Services</h3>
+    <h2>Services</h2>
     <div>
-        <h3 class="text-center">Petco is a leader among pet stores when it comes to delivering health and happiness</h3>
+        <h4 class="text-center">Petco is a leader among pet stores when it comes to delivering health and happiness</h4>
         <p>We offer a variety of premium pet services right inside most stores that are designed to save you time, money and stress.</p>
         <div class="container">
             <div class="row row-cols-4">
@@ -52,6 +52,7 @@
                     <a href="#" class="link-primary">Pet Insurance</a>
                 </div>
                 <div class="col text-center">
+
                     <br>
                     <a href="#" class="link-primary">Find Your Store</a>
                 </div>
